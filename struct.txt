@@ -1,3 +1,5 @@
+ergregvwev
+
 domain (Entities) : entity, repository (DAO entity)
 dto : datatype database, field giong entity
 service ngang usecase
