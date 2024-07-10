@@ -1,0 +1,10 @@
+ergregvwev
+
+domain (Entities) : entity, repository (DAO entity)
+dto : datatype database, field giong entity
+service ngang usecase
+service : xai cho may cai thuong lien quan den profile ( gmail, user)
+usecase : CRUD dung dto
+controller : cung cap API cho giao dien
+
+UI > controller > usecase, service > dto > domain
