@@ -8,3 +8,11 @@ usecase : CRUD dung dto
 controller : cung cap API cho giao dien
 
 UI > controller > usecase, service > dto > domain
+
+áda
+á
+d
+á
+d
+ad
+á
